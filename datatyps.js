@@ -19,7 +19,7 @@
 
 
 
-//==========constractor==========
+// ==========constractor==========
 
 // Boolean()
 // Number()
@@ -28,7 +28,7 @@
 
 // Operator
 // Incremental
-//Pre Incremental - (++a) post Incremental - (a++)
+// Pre Incremental - (++a) post Incremental - (a++)
 // assingment operator 
 // let a = 10
 // let b = 20
@@ -38,8 +38,8 @@
 // console.log(a)
 
 // logical operator
-//&& ==> true : true = true
-//|| ==> true : false = true
+// && ==> true : true = true
+// || ==> true : false = true
 // ! ==> hole system always return nagetive vlaue
 
 
@@ -66,49 +66,10 @@
 
 // console.log(a !== b)
 
-//Bitwise Operator
+// Bitwise Operator
 // &
 // |
 // ~
 // ^
 // <<
 // >>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
